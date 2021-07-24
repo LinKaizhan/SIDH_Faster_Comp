@@ -10,6 +10,7 @@ PQCrypto-SIDH-master_M1 is the code when Bob utilizes Method 1 for pairing evalu
 code when utilizing Method 2.
 
 Our code is based on SIDH v3.3 (https://github.com/Microsoft/PQCrypto-SIDH), and the usage of our code is as same as the latter.
+
 See README.md in the file PQCrypto-SIDH-master_M1 (or PQCrypto-SIDH-master_M2) for details.
 ------------------------------------------------------------------------------
 Kaizhan Lin <linkzh5@mail2.sysu.edu.cn>
