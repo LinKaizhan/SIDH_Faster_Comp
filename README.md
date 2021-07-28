@@ -1,4 +1,4 @@
-This code is complementary to the IACR eprint paper .
+This code is complementary to the IACR eprint paper https://eprint.iacr.org/2021/992.
 
 we mainly improve the performance of the public-key compression of SIDH, especially the efficiency and the storage of pairing 
 computation involved. Our experimental results (Method1) show that the memory requirement for pairing computation is reduced
